@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 92BA-2DD3
+
+ Directory of E:\SeleniumProject\MyProject
+
+11/11/2018  07:59 PM    <DIR>          .
+11/11/2018  07:59 PM    <DIR>          ..
+11/11/2018  07:59 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  25,574,612,992 bytes free
